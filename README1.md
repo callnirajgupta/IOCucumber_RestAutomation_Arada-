@@ -21,6 +21,7 @@ Tag can be found in feature file.
 Then right click the TestRunner.class and click Run as -->Junit test
 
 Or
+
 Go to the project folder
 you can go to cmd/terminal
  
