@@ -4,7 +4,7 @@ Add Url and users under src/test/resoureces/config/config.properties
 
 Add featture file under /src/test/resoureces/featurefile/**.feature
 
-Add locator and methof for each page under /src/test/java/com.realcube.estate.arada.pageobjectmodel
+Add locator and method for each page under /src/test/java/com.realcube.estate.arada.pageobjectmodel
 
 Add Step definition under /src/test/java/com.realcube.estate.arada.stepdefinition
 
