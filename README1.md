@@ -21,7 +21,7 @@ Tag can be found in feature file.
 Then right click the TestRunner.class and click Run as -->Junit test
 
 Or
-
+Go to the project folder
 you can go to cmd/terminal
  
 navigate to project
@@ -44,5 +44,7 @@ We are gererating three type of report1. Under Target folder
 Screen shot for each step
 
 2.--->test-report.html 
+
+
 
 
